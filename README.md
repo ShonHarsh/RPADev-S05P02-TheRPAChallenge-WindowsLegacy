@@ -1,8 +1,8 @@
 ![](https://shonharsh.github.io/curriculum-vitae/images/uipath-logo.png)
 
-# S00P00 Title
+# S05P02 The RPA Challenge
 
-This project is my solution in **C#** to the **Project Name** practice found in section 00 practice 00 of the UiPath - RPA Developer Foundation course.
+This project is my solution in **C#** to the **The RPA Challenge** practice found in section 05 practice 02 of the UiPath - RPA Developer Foundation course.
 
 ### Getting Started
 
@@ -12,21 +12,25 @@ After making a pull request or downloading the project, open the Main.xaml in Ui
 
 **Course:** UiPath - RPA Developer Foundation
 
-**Section:** 00 Section Name
+**Section:** 05 UI Automation With The Modern Experience
 
-**Practice:** 00 Practice Name
+**Practice:** 02 The RPA Challenge
 
-**GitHub:** https://github.com/ShonHarsh/RPADev-S00P00-ProjectName
+**GitHub:** https://github.com/ShonHarsh/RPADev-S05P02-TheRPAChallenge
 
 Sample Output
 
 ```
-//ToDo
+08/04/2021 13:35:39 => [Debug] Execution started for project: RPADev-S05P02-TheRPAChallenge
+08/04/2021 13:35:40 => [Info] RPADev-S05P02-TheRPAChallenge execution started
+08/04/2021 13:37:11 => [Info] RPADev-S05P02-TheRPAChallenge execution ended in: 00:01:30
 ```
+
+![](https://shonharsh.github.io/curriculum-vitae/images/RPADev-S05P02-TheRPAChallenge-Congratulations.jpg)
 
 ### Notes
 
-//Notes
+The website http://www.rpachallenge.com/ has the challenge specifications, data source and inputs for submission.
 
 ### RPA Developer Foundation Sections
 
@@ -66,6 +70,10 @@ Sample Output
 
 5. UI Automation With Studio
 
+   P01 [RPADev-S05P01-PasswordGenerator](https://github.com/ShonHarsh/RPADev-S05P01-PasswordGenerator)
+
+   P02 [RPADev-S05P02-TheRPAChallenge](https://github.com/ShonHarsh/RPADev-S05P02-TheRPAChallenge)
+
 6. Selectors In Studio
 
 7. Project Organization In Studio
@@ -90,7 +98,7 @@ Sample Output
 
 Clone the project to develop or change it.
 
-`git clone https://github.com/ShonHarsh/RPADev-S04P03-CalculatingPercentagesOfExpenses`
+`git clone https://github.com/ShonHarsh/RPADev-S05P02-TheRPAChallenge`
 
 ### Links
 
