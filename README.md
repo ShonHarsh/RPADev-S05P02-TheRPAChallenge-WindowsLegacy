@@ -8,6 +8,18 @@ This project is my solution in **C#** to the **The RPA Challenge** practice foun
 
 After making a pull request or downloading the project, open the Main.xaml in UiPath Studio.  The robot can be run with the play button in the ribbon and the result can be seen in output pane.
 
+#### PRACTICE REQUIREMENTS
+
+###### Let's take it one step further!
+
+In the previous lessons, you learned more about how automating interfaces actually works. It's all about picking the right anchor. Now it's time for you to discover how reliable Unified Target actually is.
+
+Your challenge is to solve the [RPA Challenge](http://www.rpachallenge.com/)! One of the most popular RPA exercises, this practice will challenge you at picking the right anchors. The goal of this challenge is to create a workflow that will input data from a spreadsheet into the form fields on the website.  
+
+But here's the trick: the fields will change position on the screen after every submission. You have 10 rounds to make the workflow correctly identify where each record must be typed in every time.  
+
+You will find all the information and working materials needed on [RPA Challenge](http://www.rpachallenge.com/).
+
 ### Details
 
 **Course:** UiPath - RPA Developer Foundation
