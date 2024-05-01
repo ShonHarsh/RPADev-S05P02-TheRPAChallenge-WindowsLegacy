@@ -1,12 +1,12 @@
 {
-  "name": "RPADev-S05P02-TheRPAChallenge",
+  "name": "RPADev-S05P02-TheRPAChallenge-WindowsLegacy",
+  "projectId": "f2d5f71b-9039-4dd9-949d-bbb6cbea108f",
   "description": "Your challenge is to solve the RPA Challenge! One of the most popular RPA exercises, this practice will challenge you at picking the right anchors. The goal of this challenge is to create a workflow that will input data from a spreadsheet into the form fields on the website.  \r\n\r\nBut here's the trick: the fields will change position on the screen after every submission. You have 10 rounds to make the workflow correctly identify where each record must be typed in every time. \r\nrpachallenge.com",
   "main": "Main.xaml",
   "dependencies": {
-    "UiPath.Excel.Activities": "[2.10.4]",
-    "UiPath.Mail.Activities": "[1.10.5]",
-    "UiPath.System.Activities": "[21.4.1]",
-    "UiPath.UIAutomation.Activities": "[21.4.4]"
+    "UiPath.Excel.Activities": "[2.23.3-preview]",
+    "UiPath.System.Activities": "[24.3.1]",
+    "UiPath.UIAutomation.Activities": "[24.4.1-preview]"
   },
   "webServices": [],
   "entitiesStores": [],
@@ -15,16 +15,21 @@
   "projectVersion": "1.0.0",
   "runtimeOptions": {
     "autoDispose": false,
+    "netFrameworkLazyLoading": false,
     "isPausable": true,
+    "isAttended": false,
     "requiresUserInteraction": true,
     "supportsPersistence": false,
+    "workflowSerialization": "DataContract",
     "excludedLoggedData": [
       "Private:*",
       "*password*"
     ],
     "executionType": "Workflow",
     "readyForPiP": false,
-    "startsInPiP": false
+    "startsInPiP": false,
+    "mustRestoreAllDependencies": false,
+    "pipType": "ChildSession"
   },
   "designOptions": {
     "projectProfile": "Developement",
@@ -37,7 +42,8 @@
       "ignoredFiles": []
     },
     "fileInfoCollection": [],
-    "modernBehavior": false
+    "modernBehavior": false,
+    "saveToCloud": false
   },
   "expressionLanguage": "CSharp",
   "entryPoints": [
